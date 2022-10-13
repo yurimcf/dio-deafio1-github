@@ -1,2 +1,2 @@
-# dio-deafio1-github
-Desafio de Projeto sobre Git/GitHub 
+# Repositório do Desafio de Projeto Bootcamp Quebéc 
+Desafio de Projeto sobre **Git/GitHub** 
